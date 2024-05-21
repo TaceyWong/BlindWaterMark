@@ -6,10 +6,15 @@ Blind&amp;Invisible Watermark ，图片盲水印桌面GUI，对[blind-watermark]
 
 <p align="center"><img src="./desk.png" ></p>
 
+
+## 下载安装
+
++ Mac(amd64):
++ Windows:
+
 **注意⚠️**：因为有个自解压的过程，第一次启动相对较慢,之后就正常了。
 
-
-
+## 截图展示
 
 **开始**
 
