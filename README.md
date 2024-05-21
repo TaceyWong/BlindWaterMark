@@ -11,7 +11,7 @@ Blind&amp;Invisible Watermark ，图片盲水印桌面GUI，对[blind-watermark]
 
 **关于**
 
-<p align="center"><img src="./about.png" width=300 ></p>
+<p align="center"><img src="./about.png" width=500 ></p>
 
 **开始**
 
