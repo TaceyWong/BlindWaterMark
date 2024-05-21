@@ -7,7 +7,7 @@ Blind&amp;Invisible Watermark ，图片盲水印桌面GUI，对[blind-watermark]
 
 **启动台**
 
-![](./desk.png)
+<p align="center"<img src="./desk.png" ></p>
 
 **关于**
 
