@@ -9,29 +9,31 @@ Blind&amp;Invisible Watermark ，图片盲水印桌面GUI，对[blind-watermark]
 **注意⚠️**：因为有个自解压的过程，第一次启动相对较慢,之后就正常了。
 
 
-**关于**
 
-<p align="center"><img src="./about.png" width=500 ></p>
 
 **开始**
 
-![](./start.png)
+<p align="center"><img src="./start.png" width=300 ></p>
 
 **添加水印**
 
-![](./mark.png)
+<p align="center"><img src="./mark.png" width=300 ></p>
 
 **提取水印**
 
-![](./extract.png)
+<p align="center"><img src="./extract.png" width=300 ></p>
 
 **更改主题**
 
-![](./theme.png)
+<p align="center"><img src="./theme.png" width=300 ></p>
 
 **窗体透明与否切换**
 
-![](./trans.png)
+<p align="center"><img src="./trans.png" width=300 ></p>
+
+**关于**
+
+<p align="center"><img src="./about.png" width=500 ></p>
 
 
 
