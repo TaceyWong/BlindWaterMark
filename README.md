@@ -9,8 +9,8 @@ Blind&amp;Invisible Watermark ，图片盲水印桌面GUI，对[blind-watermark]
 
 ## 下载安装
 
-+ Mac(amd64):
-+ Windows:
++ Mac(amd64): [下载⬇️](https://github.com/TaceyWong/BlindWaterMark/releases/download/1.0.0/BlindWaterMark-v1.0.0-Portable-Darwin-64.zip)
++ Windows:comming soon!
 
 **注意⚠️**：因为有个自解压的过程，第一次启动相对较慢,之后就正常了。
 
